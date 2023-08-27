@@ -1,0 +1,28 @@
+header{
+  background-color:#f5c3c5;
+  padding: 16px 0;
+}
+
+
+footer{
+  font-family: 'Montserrat', sans-serif;
+  background-color:#f39fad;
+  clear: both;
+  color:white;
+  text-align: center;
+  padding: 5px 0;
+  margin-top: 20px;
+  box-shadow: 0 0 10px black;
+  box-shadow: 0 0 5px rgba(0,0,0,0.5);
+  display: flex;
+  justify-content: center;
+}
+body{
+  font-family: 'Open Sans', sans-serif;
+  font-size: 16px;
+  line-height: 20px;
+}
+.holder{
+  max-width: 960px;
+  margin: 0 auto;
+}
